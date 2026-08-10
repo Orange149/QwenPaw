@@ -145,6 +145,9 @@ e2e/data/
 e2e/.pytest_cache/
 e2e/__pycache__/
 
+# Local framework-overhead benchmark artifacts (may contain wire metadata)
+/benchmark_results/
+
 # knowledge-base related
 graphify-out/
 local-docs/
